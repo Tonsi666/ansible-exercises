@@ -4,4 +4,5 @@ variable "key_name" {
 
 variable "instance_count" {
   type = number
+  default = 1
 }
